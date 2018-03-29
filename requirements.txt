@@ -1,0 +1,6 @@
+peewee
+pandas
+numpy
+requests
+xlrd
+bokeh
